@@ -2,6 +2,9 @@
 
 ![Design preview for the aluroni](./aluroniPreview.jpg)
 
+## Detalhes
+Projeto feito em React & Typescript e estilizado com SCSS, conta com um cardápio dee comidas com filtro de opções pelo tipo de comida, valores e quantidade de pessoas que cada prato serve.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
